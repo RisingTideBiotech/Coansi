@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: COANSI
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Christy M.
+    family-names: Kelley
+    email: christy.kelley@asu.edu
+    affiliation: The Institute of Future Health, Arizona State University
+  - given-names: Megan K.
+    family-names: Gautier
+    email: megan.gautier@nyulangone.org
+    affiliation: New York University Grossman School of Medicine
+  - given-names: Elliott J.
+    family-names: Mufson
+    email: Elliott.Mufson@BarrowNeuro.org
+    affiliation: Barrow Neurological Institute
+  - given-names: Stephen D.
+    family-names: Ginsberg
+    email: ginsberg@nki.rfmh.org
+    affiliation: >-
+      New York University Grossman School of
+      Medicine  
